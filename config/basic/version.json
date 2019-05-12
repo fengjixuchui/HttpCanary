@@ -1,7 +1,7 @@
 {
 "min": "2.7.0",
-"latest": "2.8.1",
-"url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.8.1.apk",
-"en_notes": "• Dynamic injection supports request body and response body.\n • Add advanced repeat feature.\n • Support Firefox CA certificate configuration.\n • Fixed battery consumption issues.\n • Fixed an issue where the name of .0 CA file is incorrect.\n • Minor bug fixes and improvements.",
-"zh_notes": "• [新增] 动态注入支持修改请求体和响应体。\n • [新增] 重发支持延迟重发和批量重发功能。\n • [新增] 激活码激活时支持自动解绑旧设备。\n • [新增] 支持Firefox浏览器导入证书。\n • 修复导出的.0证书名称错误的bug。\n • 修复抓包耗电的问题。\n • 修复其它bug和性能问题。"
+"latest": "2.9.1",
+"url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.9.1.apk",
+"en_notes": "• Support zh-TW language.\n • Support target app quick setting.\n • Display packet index in list.\n • Support free copy and text decrypt.\n • Add Parallel Space 64bit support.\n • Minor bug fixes and improvements.",
+"zh_notes": "• [新增] 支持台湾繁体语言（感谢david082321的无私协助）。\n • [新增] 首页添加快捷设置抓包目标应用的入口。\n • [新增] 抓包记录增加序号显示。\n • [新增] 支持自由复制和文本解密功能。\n • [新增] 添加平行空间64位支持。\n • [新增] 支持直接分享cURL。\n • [修复] 修复编辑重发不支持body大小为0的bug。"
 }
