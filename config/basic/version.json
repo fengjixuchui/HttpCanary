@@ -1,5 +1,5 @@
 {
-"min": "2.7.0",
+"min": "2.8.1",
 "latest": "2.9.1",
 "url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.9.1.apk",
 "en_notes": "• Support zh-TW language.\n • Support target app quick setting.\n • Display packet index in list.\n • Support free copy and text decrypt.\n • Add Parallel Space 64bit support.\n • Minor bug fixes and improvements.",
