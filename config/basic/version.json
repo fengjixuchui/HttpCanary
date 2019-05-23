@@ -1,7 +1,7 @@
 {
 "min": "2.8.1",
-"latest": "2.9.1",
-"url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.9.1.apk",
-"en_notes": "• Support zh-TW language.\n • Support target app quick setting.\n • Display packet index in list.\n • Support free copy and text decrypt.\n • Add Parallel Space 64bit support.\n • Minor bug fixes and improvements.",
-"zh_notes": "• [新增] 支持台湾繁体语言（感谢david082321的无私协助）。\n • [新增] 首页添加快捷设置抓包目标应用的入口。\n • [新增] 抓包记录增加序号显示。\n • [新增] 支持自由复制和文本解密功能。\n • [新增] 添加平行空间64位支持。\n • [新增] 支持直接分享cURL。\n • [修复] 修复编辑重发不支持body大小为0的bug。"
+"latest": "2.10.0",
+"url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.10.0.apk",
+"en_notes": "• Detects capture exceptions and tips.\n • Supports host black list.\n • Fixed a bug where the body data loads failed.\n • Fixed a bug where the search options has no associated data.\n • Minor bug fixes and improvements.",
+"zh_notes": "• [新增] 抓包问题定位和解决方法提示。\n • [新增] 支持Host黑名单机制。\n • [修复] 注入器Body直接编辑提示无法加载数据的bug。\n • [修复] 历史记录搜索未关联Host、IP等的问题。\n • [修复] 其它bug和性能问题。"
 }
