@@ -1,6 +1,6 @@
 {
 "min": "2.8.1",
-"latest": "2.10.0",
+"latest": "2.10.2",
 "url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.10.0.apk",
 "en_notes": "• Detects capture exceptions and shows tips.\n • Supports host black list.\n • Fixed a bug where the body data loads failed.\n • Fixed a bug where the search options has no associated data.\n • Minor bug fixes and improvements.",
 "zh_notes": "• [新增] 抓包问题定位和解决方法提示。\n • [新增] 支持Host黑名单机制。\n • [修复] 注入器Body直接编辑提示无法加载数据的bug。\n • [修复] 历史记录搜索未关联Host、IP等的问题。\n • [修复] 其它bug和性能问题。"
