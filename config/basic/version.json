@@ -1,7 +1,7 @@
 {
 "min": "2.8.1",
-"latest": "2.10.2",
-"url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.10.0.apk",
-"en_notes": "• Detects capture exceptions and shows tips.\n • Supports host black list.\n • Fixed a bug where the body data loads failed.\n • Fixed a bug where the search options has no associated data.\n • Minor bug fixes and improvements.",
-"zh_notes": "• [新增] 抓包问题定位和解决方法提示。\n • [新增] 支持Host黑名单机制。\n • [修复] 注入器Body直接编辑提示无法加载数据的bug。\n • [修复] 历史记录搜索未关联Host、IP等的问题。\n • [修复] 其它bug和性能问题。"
+"latest": "2.11.4",
+"url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.11.4.apk",
+"en_notes": "• Added regular replacement injections.\n • Added more initialization guidelines for the first time.\n • Added a plugin for packet upload.\n • Fixed a bug where TE header could cause Http2 no response.\n • Fixed a bug where static injector could cause Http2 no response.",
+"zh_notes": "• [新增] 正则匹配替换功能。\n • [新增] 数据包上传插件。\n • [修复] HTTP2静态注入失败的bug。\n • [修复] 部分插件无法自动创建目录和模板的bug。\n • [修复] 其它bug和性能问题。"
 }
