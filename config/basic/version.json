@@ -1,5 +1,5 @@
 {
-"min": "2.8.1",
+"min": "2.9.0",
 "latest": "2.11.5",
 "url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.11.5.apk",
 "en_notes": "• Added regular replacement injections.\n • Added more initialization guidelines for the first time.\n • Added a plugin for packet upload.\n • Fixed a bug where TE header could cause Http2 no response.\n • Fixed a bug where static injector could cause Http2 no response.",
