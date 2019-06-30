@@ -1,7 +1,6 @@
 {
 "min": "2.9.0",
 "latest": "2.11.5",
-"discount":true,
 "url": "https://github.com/MegatronKing/HttpCanary/raw/master/assets/httpcanary_basic_v2.11.5.apk",
 "en_notes": "• Added regular replacement injections.\n • Added more initialization guidelines for the first time.\n • Added a plugin for packet upload.\n • Fixed a bug where TE header could cause Http2 no response.\n • Fixed a bug where static injector could cause Http2 no response.",
 "zh_notes": "• [新增] 正则匹配替换功能。\n • [新增] 数据包上传插件。\n • [修复] HTTP2静态注入失败的bug。\n • [修复] 部分插件无法自动创建目录和模板的bug。\n • [修复] 其它bug和性能问题。"
