@@ -1,7 +1,7 @@
 {
 "min": "2.9.0",
-"latest": "2.11.8",
-"url": "https://github.com/MegatronKing/HttpCanary/releases/download/v2.11.8/httpcanary_basic_v2.11.8.apk",
-"en_notes": " • Added regular replacement injections.\n • Added more initialization guidelines for the first time.\n • Added a plugin for packet upload.\n • Fixed a bug where TE header could cause Http2 no response.\n • Fixed a bug where static injector could cause Http2 no response.",
-"zh_notes": " • [新增] 正则匹配替换功能。\n • [新增] 数据包上传插件。\n • [修复] HTTP2静态注入失败的bug。\n • [修复] 部分插件无法自动创建目录和模板的bug。\n • [修复] 其它bug和性能问题。"
+"latest": "2.11.10",
+"url": "https://github.com/MegatronKing/HttpCanary/releases/download/v2.11.10/httpcanary_basic_v2.11.10.apk",
+"en_notes": " • Supports brotli encode/decode.\n • Supports regular history deletion.\n • Fixed a bug where the regular injection would cause the target no response.\n • Fixed a bug where the order of regulars were not correct.\n • Fixed a bug where the option of system certificate installation is invisible.",
+"zh_notes": " • [新增] 新增规则历史记录删除功能。\n • [新增] 新增支持Brotli编解码。\n • [修复] 修复规则匹配注入导致目标应用收不到响应的bug。\n • [修复] 修复规则匹配注入编辑页列表顺序颠倒的bug。\n • [修复] 修复root机器不显示安装系统证书的bug。"
 }
